@@ -1,0 +1,19 @@
+Avoir l'action fabriquée par le collaborateur  pour résoudre son problème à partir d'une conversation avec leur manager.
+
+Manager: Bonjour, comment puis-je vous aider aujourd'hui ?
+
+Collaborateur: Bonjour, je voulais discuter d'un problème que j'ai rencontré avec le matériel informatique.
+
+Manager: Très bien, pouvez-vous me décrire ce problème en détail ?
+
+Collaborateur: Oui, j'ai remarqué que mon ordinateur portable est très lent et je pense que cela peut être dû à une mise à jour manquante.
+
+Manager: Je comprends, je vais organiser une maintenance pour résoudre ce problème. Y a-t-il autre chose que je peux faire pour vous aider ?
+
+Collaborateur: Non, merci beaucoup pour votre aide.
+
+Manager: Ce n'est rien, n'hésitez pas à nous contacter pour tout autre problème que vous rencontrez.
+
+Action fabriquée :Organiser une maintenance pour résoudre le problème de lenteur de l'ordinateur portable.
+
+<<block>>
